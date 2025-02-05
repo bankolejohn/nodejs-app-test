@@ -39,3 +39,5 @@ logs/
 # Ignore temporary files
 *.tmp
 *.temp
+
+install.sh

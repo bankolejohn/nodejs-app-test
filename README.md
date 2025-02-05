@@ -121,6 +121,10 @@ As a DevOps engineer, you can extend this project to include CI/CD pipelines, mo
 
 ---
 
+## Troubleshooting  
+See [Errors & Solutions](ERRORS_AND_SOLUTIONS.md) for common issues and fixes.
+
+
 ## **Contributing**
 
 Contributions are welcome! If you’d like to contribute, please follow these steps:
@@ -146,4 +150,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ```
 
 ---
+
+
 
